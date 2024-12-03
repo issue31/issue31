@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <!--Experience-->
 <!--Trophie-->
 ### My Trophies
-![trophies](https://github-profile-trophy.vercel.app/?username=CodeDroid999&column=8&row=1&theme=onedark&no-frame=true&no-bg=false&count_private=true)
+![trophies](https://github-profile-trophy.vercel.app/?username=issue319&column=8&row=1&theme=onedark&no-frame=true&no-bg=false&count_private=true)
 <!--Trophies-->
 
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 </p>
 <!--
 <img src="https://wakatime.com/share/@codedroid/ee1cf0fd-42a8-45c7-97f3-d2df82dd18b4.svg"/>
-wakatime starts-->
+wakatime stats-->
 
 <!--- more metrics--->
 <h3 align="left">More metrics and insight? <a href="https://metrics.lecoq.io/insights/issue31">click me👇</a></h3>
@@ -99,7 +99,7 @@ wakatime starts-->
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>&nbsp;&nbsp;
 &nbsp;&nbsp;
-  <a href="linkedin.com/in/ishita-singh-4b336a191/">
+  <a href="https://linkedin.com/in/ishita-singh-4b336a191/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
  <p align="left">
