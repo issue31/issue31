@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 </p>
 <!--Experience-->
 <!--Trophies-->
+
 ### My Trophies
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=issue31&column=8&row=1&theme=onedark&no-frame=true&no-bg=false&count_private=true)
