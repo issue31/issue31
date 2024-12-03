@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <!--Experience-->
 <!--Trophie-->
 ### My Trophies
-![trophies](https://github-profile-trophy.vercel.app/?username=issue319&column=8&row=1&theme=onedark&no-frame=true&no-bg=false&count_private=true)
+![trophies](https://github-profile-trophy.vercel.app/?username=issue31&column=8&row=1&theme=onedark&no-frame=true&no-bg=false&count_private=true)
 <!--Trophies-->
 
 
