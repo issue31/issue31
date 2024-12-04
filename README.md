@@ -53,6 +53,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/issue31/issue31">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issue31&&show_icons=true&theme=gotham" alt="Ishita's GitHub Stats" />
 </a>
+
+[![@issue31's Holopin board](https://holopin.me/issue31)](https://holopin.io/@issue31)
+
 <!--Experience-->
 
 ### Experience
